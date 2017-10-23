@@ -72,9 +72,7 @@ Not yet implemented (defaults to ``non-ignorable``).
 
 ### backwards
 
-Takes the values ``on`` and ``off``, and defaults to ``off``.
-
-If ``on``, accents are considered from the end of the word, backwards.
+Not yet implemented (defaults to ``off``).
 
 ### normalization
 
